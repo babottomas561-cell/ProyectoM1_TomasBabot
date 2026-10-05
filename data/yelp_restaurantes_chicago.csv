@@ -1,0 +1,241 @@
+id,nombre,rating,review_count,precio,ciudad,codigo_postal,latitud,longitud,categorias,aliases,hace_delivery,esta_cerrado
+qjnpkS8yZO8xcyEIy5OU9A,Girl & The Goat,4.4,10749,$$$,Chicago,60607,41.88419277030351,-87.64794613195826,"New American, Bars, Bakeries","newamerican, bars, bakeries",True,False
+boE4Ahsssqic7o5wQLI04w,The Purple Pig,4.3,9056,$$$,Chicago,60611,41.890694,-87.624782,"Tapas/Small Plates, Mediterranean, New American","tapasmallplates, mediterranean, newamerican",True,False
+gzhkdb6YoiFm5s3vriG1AA,Gretel,4.5,483,$$,Chicago,60647,41.917275,-87.698577,"Cocktail Bars, New American, Speakeasies","cocktailbars, newamerican, speakeasies",True,False
+8N3GMu-AhVvJMzQifkNemg,Crying Tiger,4.3,288,,Chicago,60654,41.88990307515616,-87.6298989,Thai,thai,True,False
+GZsrGq6H8CQ4YlGtE_Bm0Q,Ciccio Mio,4.7,672,$$$,Chicago,60654,41.8892649696079,-87.63521477367367,Italian,italian,True,False
+1BHgaf25FpVSOXFpZF0pYw,Trivoli Tavern,4.5,1051,$$,Chicago,60607,41.8837221888722,-87.64903867652058,"American, American","tradamerican, tradamerican",True,False
+cgIuo3geaxw1Sfhbqm5qTA,Alla Vita,4.4,858,$$$,Chicago,60661,41.88468,-87.642322,Italian,italian,True,False
+tuJraaFffIS_JNK_4ZqGTA,Ema,4.3,1977,$$,Chicago,60654,41.890964390624795,-87.63090253497006,"Mediterranean, Tapas/Small Plates, Salad","mediterranean, tapasmallplates, salad",True,False
+VPJk-SEWSWS_nGoQvM-COw,Penumbra,4.8,1036,$$$,Chicago,60647,41.924459,-87.710898,"Wine Bars, Seafood, Steakhouses","wine_bars, seafood, steak",True,False
+PZe0q_153VHUnaR-8dOTJg,The Dearborn,4.4,2803,$$,Chicago,60602,41.8842528,-87.6293151,"New American, Breakfast & Brunch, Beer, Wine & Spirits","newamerican, breakfast_brunch, beer_and_wine",True,False
+okaqMJEoHfHblpKz9Q-CMA,The Perch,4.4,622,$$,Chicago,60622,41.90348,-87.676221,"Breweries, New American","breweries, newamerican",True,False
+riT822EnU7y_5eCuJsd9sA,Cindy's Rooftop,4.1,2891,$$$,Chicago,60603,41.8816894031196,-87.6250061730162,"New American, Seafood, Breakfast & Brunch, New American, Seafood, Breakfast & Brunch","newamerican, seafood, breakfast_brunch, newamerican, seafood, breakfast_brunch",True,False
+ngB0iQM1Yz7Nx_tQZqU7NA,Daisies,4.3,810,$$,Chicago,60647,41.924443845390954,-87.69964666704485,"Pasta Shops, New American, Cocktail Bars","pastashops, newamerican, cocktailbars",True,False
+Bg7IkuTlqVh_Ezik1gA7yg,Siam Thai Eatery,4.4,190,,Chicago,60605,41.864942,-87.623699,Thai,thai,True,False
+ZXsqdTNHSqxBxCXcbmOiLA,Bigsuda,4.3,72,,Chicago,60622,41.906445,-87.671742,"Asian Fusion, Korean, Noodles","asianfusion, korean, noodles",False,False
+1Q7RL7Hc63wKa2A9ec3zXw,Il Porcellino,4.4,1812,$$,Chicago,60654,41.889961085694644,-87.63029733223148,"Italian, Bars, Salad, Italian, Bars, Salad","italian, bars, salad, italian, bars, salad",True,False
+9nUrDQ_REhU6sgcgXFAyfA,Aba,4.4,2032,$$$,Chicago,60607,41.8869441,-87.6487949,"Mediterranean, Tapas/Small Plates","mediterranean, tapasmallplates",True,False
+w2LpSKiGo7Rk44x7WGNk7w,Gilda,4.7,10,,Chicago,60642,41.89593906624171,-87.66330049999999,Basque,basque,False,False
+0qW7MJ0trxnoWzCHBiBgbQ,Union,4.5,86,,Chicago,60647,41.9218,-87.69769,"New American, Pubs","newamerican, pubs",False,False
+xoi7Cw7FoknAx5p880RtWQ,Au Cheval,4.4,9598,$$,Chicago,60607,41.88466,-87.647668,"Bars, Burgers, American","bars, burgers, tradamerican",True,False
+--Yw337vTC4fLKRCaw-PLQ,XOchimilco Mexican Restaurant,4.8,364,$$,Chicago,60618,41.9616665,-87.6802497,"Mexican, Mexican","mexican, mexican",False,False
+0PPM0wxA2r8XVM8vbMm9Pw,MCCB Chicago 时尚食谱,4.5,1200,$$,Chicago,60616,41.85383969999999,-87.63366102533693,"Szechuan, Asian Fusion, Noodles","szechuan, asianfusion, noodles",True,False
+m5gfWEQI7BYTKWMYF-X-Ug,No Vacancy,4.5,181,$$,Chicago,60654,41.89115,-87.63375,"New American, Wine Bars, Venues & Event Spaces","newamerican, wine_bars, venues",False,False
+0EcR5_zMAdyWf96owSBYbw,Wolf & Company,4.3,133,,Chicago,60647,41.91380989193472,-87.68777157055223,"Cocktail Bars, Burgers, Delis","cocktailbars, burgers, delis",True,False
+Xwnu5KDr3_PGfSQ8binvrQ,Creepies,4.2,61,,Chicago,60607,41.884474,-87.661187,Restaurants,restaurants,False,False
+T_egMuf7xJHLdldzPqOaSQ,Qing Xiang Yuan Dumplings,4.4,2207,$$,Chicago,60616,41.85505,-87.63219,"Chinese, Barbeque","chinese, bbq",True,False
+faOpq9ORL0FlsMrou2NYug,Amaru,4.7,486,$$$,Chicago,60622,41.91071,-87.67536,"Latin American, Caribbean, Cocktail Bars","latin, caribbean, cocktailbars",False,False
+TpnJu57_NYEjgJyL6klurg,Perilla korean steakhouse,4.1,232,$$$$,Chicago,60601,41.88655,-87.62604,"Steakhouses, Korean, Cocktail Bars","steak, korean, cocktailbars",True,False
+o0DaPvRb4IWH7hUWVCnoGw,Monteverde,4.5,1588,$$$,Chicago,60607,41.88191,-87.65302,"Italian, Desserts, Wine Bars","italian, desserts, wine_bars",True,False
+oSI2djSdl7KjNGwb7PDWCg,Lao Peng You,4.2,457,$$,Chicago,60622,41.89610667,-87.67786167,Chinese,chinese,False,False
+Nl9oN21qxo_fVB0mmLdvKQ,Chez Poulet,4.2,13,,Chicago,60647,41.922708932366945,-87.68781580030918,"Chicken Shop, French","chickenshop, french",False,False
+Z8K7SVH-B7ZVAVD9aFIK8w,Bar Mar,4.3,651,$$$,Chicago,60606,41.883835,-87.6372458,"Seafood, Cocktail Bars","seafood, cocktailbars",False,False
+XKUZV9O2sRFLDIpAmwmG5g,Boka,4.3,1921,$$$$,Chicago,60614,41.91356,-87.647993,New American,newamerican,True,False
+kbLOjhaUqHI2TKy_SIDVdw,Beaumont's,4.3,25,,Chicago,60614,41.918808,-87.648874,"American, Cocktail Bars, French","tradamerican, cocktailbars, french",False,False
+i2IertfmCglGxRGjj979_A,Cariño,4.9,43,,Chicago,60640,41.966921813461994,-87.65875104814768,"Latin American, Tacos, Latin American, Tacos","latin, tacos, latin, tacos",False,False
+9mhqcimD0CYvqxzfj_VXnQ,Little Bad Wolf,4.4,2600,$$,Chicago,60660,41.983356,-87.669057,"American, Beer Bar, Cocktail Bars","tradamerican, beerbar, cocktailbars",True,False
+0p-Wi2pmihlcntw4dOfveQ,Qing Xiang Yuan Dumplings,4.6,31,,Chicago,60622,41.903345,-87.678091,"Dim Sum, Barbeque, Coffee & Tea","dimsum, bbq, coffee",False,False
+ruWJerAc9VW23GvegYddnQ,Gaijin,4.3,800,$$,Chicago,60607,41.88583,-87.65182,Japanese,japanese,True,False
+n5jRD0dlY6Dl672THS7yFA,Mister Tiger,4.5,133,,Chicago,60642,41.89129,-87.65596,Korean,korean,False,False
+AKh0ytqcXv5mZztqnDQUjg,Ila's,4.9,74,,Chicago,60654,41.89000013759809,-87.62861532609016,"Comfort Food, Salad, Cocktail Bars","comfortfood, salad, cocktailbars",False,False
+0ucCbCekcn5XdzvRXnHl2w,Desert Hawk,4.6,49,,Chicago,60622,41.90288666670101,-87.67917606979607,"American, Bars","tradamerican, bars",False,False
+ZJyomLAJ-ffIhB2lmSA_Yg,Anatolia,4.7,46,,Chicago,60614,41.92516,-87.64002,"Mediterranean, Turkish, Cocktail Bars","mediterranean, turkish, cocktailbars",True,False
+D3tJ-N85kZddAwetQHTpkQ,Dell Rooster,4.8,206,$$,Chicago,60622,41.89575636351244,-87.67324000597,"Latin American, Breakfast & Brunch, Sandwiches","latin, breakfast_brunch, sandwiches",True,False
+wfkj7DK8YzhdwhhFc2OntA,Giant,4.3,776,$$$,Chicago,60647,41.9171,-87.70746,"New American, Beer Bar, Wine Bars","newamerican, beerbar, wine_bars",True,False
+45Xno0A0IWY8A0JBgeQ7Eg,Brasero,4.6,178,,Chicago,60622,41.89570504072024,-87.67021413892508,"Latin American, New American, Beer, Wine & Spirits","latin, newamerican, beer_and_wine",False,False
+qZMgGHP6z37DCchbFFaj7w,Libertad,4.6,26,,Chicago,60622,41.91038752821303,-87.6739316,"Latin American, Breakfast & Brunch, Cocktail Bars","latin, breakfast_brunch, cocktailbars",False,False
+3UySRA17B65Kbu-OVO92iQ,NOEMA,5.0,23,,Chicago,60614,41.92496988008711,-87.6649762,"Greek, Gastropubs","greek, gastropubs",False,False
+dro6ttzG0H2PlES0gI8LIg,Tortello,4.3,623,$$,Chicago,60622,41.90343739642855,-87.67186413269891,"Pasta Shops, Italian, Cooking Classes","pastashops, italian, cookingclasses",True,False
+yHp_qrNBnx6CmoN3RkdDLw,Mano A Mano,4.3,101,,Chicago,60647,41.92719,-87.70485,"Italian, Wine Bars","italian, wine_bars",True,False
+-NwrV4cVS-INh7b6Fb2FoA,Tuk Tuk,4.4,54,,Chicago,60642,41.90363835081604,-87.66522239999999,"Thai, Noodles, Soup","thai, noodles, soup",True,False
+kiwMgtypE3TRrUkmTwA2Zw,Armitage Alehouse,4.5,616,$$$,Chicago,60614,41.91838,-87.65359,"Pubs, British, Seafood","pubs, british, seafood",False,False
+LseKXp_J0OCr8rtO3uRYHQ,Craft & Carvery,4.8,9,,Chicago,60647,41.9103437,-87.6800434,"Sandwiches, Pizza","sandwiches, pizza",True,False
+pbEiXam9YJL3neCYHGwLUA,Alinea,4.4,2772,$$$$,Chicago,60614,41.9134194160823,-87.6482384681229,"New American, Modern European","newamerican, modern_european",False,False
+OM24LGQGFp1PfaiYrkOIbQ,Lilac Tiger,4.1,56,,Chicago,60622,41.903512007398334,-87.6717396453023,"Indian, Cocktail Bars, Asian Fusion","indpak, cocktailbars, asianfusion",True,False
+mvFimrcREBIDo-pLAhMfNg,Avec - Chicago,4.3,2660,$$$,Chicago,60661,41.884290441849,-87.6433979433133,Mediterranean,mediterranean,True,False
+XR7K-0DlG3dikV4nRXPjYQ,Matilda,4.4,100,,Chicago,60654,41.89188,-87.63378,"Mexican, Peruvian, Cocktail Bars","mexican, peruvian, cocktailbars",False,False
+RNsldUTu1LKKcRZYPw3gjA,Kapitan,4.3,168,,Chicago,60614,41.92008,-87.66261,"Asian Fusion, Malaysian, Singaporean","asianfusion, malaysian, singaporean",True,False
+DXwSYgiXqIVNdO9dazel6w,Pequod's Pizza,3.9,9001,$$,Chicago,60614,41.92187,-87.664486,Pizza,pizza,True,False
+apo9fX6Opmr2Z87sm-_cfg,All Together Now,4.5,144,$$,Chicago,60622,41.89555,-87.68051,"Specialty Food, New American, Beer, Wine & Spirits","gourmet, newamerican, beer_and_wine",True,False
+V2jEs7sH44pcG1J9x59f9w,Dove's Luncheonette,4.2,843,$$,Chicago,60622,41.909487,-87.677293,"Southern, Tex-Mex, Breakfast & Brunch","southern, tex-mex, breakfast_brunch",True,False
+b1Uha3s_caUgBrOmflt8xw,Wu's Korean BBQ,4.5,29,,Chicago,60611,41.890986402568934,-87.6172576,"Barbeque, Korean, Cocktail Bars","bbq, korean, cocktailbars",False,False
+LaYrGWnZazWsc3xi1sTYfw,Arbella,4.4,704,$$,Chicago,60654,41.8920162809497,-87.6318293755272,"Tapas/Small Plates, Cocktail Bars, New American","tapasmallplates, cocktailbars, newamerican",True,False
+JJoQf2GWbDm81ZnswH9Hgw,NAIA,3.8,139,,Chicago,60654,41.88819,-87.63286,"Mediterranean, Venues & Event Spaces","mediterranean, venues",False,False
+tQoQbc3vAo3qdTDiNgSekA,Pleasant House Pub,4.4,1021,$$,Chicago,60608,41.85357,-87.64621,"British, Pubs, Breakfast & Brunch","british, pubs, breakfast_brunch",True,False
+Hva72BMbfVg1q9XwiiW-Mg,La Mom Kitchen,4.7,43,,Chicago,60640,41.9797752,-87.6596671949102,"Shanghainese, Szechuan","shanghainese, szechuan",True,False
+FzYi3AVHoYZnWXe1BQrQEw,Mott St,4.0,1195,$$$,Chicago,60622,41.9071254164458,-87.6673834605751,"Asian Fusion, Bars","asianfusion, bars",True,False
+0IYXh7l_VppKw5y97FehoA,Kasama,4.5,1476,$$,Chicago,60622,41.899692,-87.6756,"Filipino, Bakeries, New American","filipino, bakeries, newamerican",True,False
+XWodOV8dW4WlK2XB3j6JnA,Chef’s Special Cocktail Bar,4.4,365,,Chicago,60647,41.921735,-87.68721,"Cocktail Bars, Chinese, Seafood","cocktailbars, chinese, seafood",True,False
+Yc_VAHPXcl_h2CeEr_XfkQ,Bolivar & Lincoln Venezuelan Cafe,4.8,296,$$,Chicago,60657,41.943218,-87.65401,"Cafes, Venezuelan","cafes, venezuelan",True,False
+ZhHonGY7XknrPjwtx2jg2A,Khmai,4.6,116,,Chicago,60626,42.00239984854286,-87.66098231077194,Cambodian,cambodian,False,False
+TC8tG6To87DUzC365njvXw,River Roast,4.0,1462,$$$,Chicago,60654,41.88794,-87.63234,"American, Cocktail Bars, Breakfast & Brunch","tradamerican, cocktailbars, breakfast_brunch",True,False
+incGwtfg6rwT00w9WAqE0A,Apolonia,4.4,344,$$$,Chicago,60616,41.85267,-87.62361,"Modern European, Bars, Mediterranean","modern_european, bars, mediterranean",False,False
+IqJKz6-IBIbcfUcotMXO8Q,Cafe Istanbul,4.4,380,$$,Chicago,60622,41.9034987,-87.6778866,"Turkish, Mediterranean","turkish, mediterranean",True,False
+HuB9hjq-X4LEEqxN2RhAVw,Kama - Wicker Park,4.3,150,,Chicago,60622,41.90971,-87.676833,"Indian, Beer Bar, Cocktail Bars","indpak, beerbar, cocktailbars",True,False
+FiDxI03abCAfA4pgl1NJ1w,Butcher & The Bear,4.4,187,$$$$,Chicago,60614,41.93223470574105,-87.648727,"Steakhouses, Seafood, Burgers","steak, seafood, burgers",False,False
+Gr42JZ9GsKaESW-864rwFQ,Tepalcates,4.9,147,$$,Chicago,60618,41.939633,-87.686718,"Tacos, Tacos","tacos, tacos",False,False
+Jht3PLwPH693bseS7J0FDA,Maxwells Trading,4.5,221,,Chicago,60607,41.88767535355601,-87.665248028934,New American,newamerican,False,False
+w3nQNMbQygynqPEvOPsA7w,Garuda,4.7,26,$$,Chicago,60640,41.97343736018699,-87.65681649999999,"Indonesian, Noodles, Soup","indonesian, noodles, soup",True,False
+UK5Xb8xqUOUBi5vQu0bQXQ,Maple & Ash,4.2,2551,$$$$,Chicago,60610,41.9021130633339,-87.6286945502972,"Steakhouses, Seafood, Breakfast & Brunch","steak, seafood, breakfast_brunch",True,False
+Z45eQgbnFWH--PYPLTFhNg,Void,4.7,71,,Chicago,60618,41.93478,-87.716438,"Italian, Seafood, Cocktail Bars","italian, seafood, cocktailbars",False,False
+vvhfPV-Llkd4fE2SHuLVvA,The Gage,4.2,3734,$$,Chicago,60603,41.881369,-87.624698,"New American, Cocktail Bars","newamerican, cocktailbars",True,False
+iOMvXQYFl6_mtw0wX6ZUXw,Forbidden Root,4.3,650,$$,Chicago,60622,41.89628,-87.671551,"Brewpubs, Tapas/Small Plates, Cocktail Bars","brewpubs, tapasmallplates, cocktailbars",True,False
+KQqXxK257UUyzpbtjelniw,Ox Bar & Hearth,4.8,48,,Chicago,60642,41.91018949555752,-87.64891069382429,"New American, Cocktail Bars, Breakfast & Brunch","newamerican, cocktailbars, breakfast_brunch",False,False
+8wARj6QqmnSkUqLwoBCn7w,Gibsons Italia,4.3,1151,$$$,Chicago,60606,41.88660415612635,-87.63957346218746,"Steakhouses, Italian, Seafood","steak, italian, seafood",True,False
+hMNHD9LHs_R3vFCfTOGorw,Izakaya Shinya,4.2,205,,Chicago,60647,41.910173,-87.684546,"Ramen, Cocktail Bars, Izakaya","ramen, cocktailbars, izakaya",True,False
+4i1Ny2zIE1VJSU9gLMkHqg,Lula Cafe,4.3,2470,$$,Chicago,60647,41.927668036295,-87.706845233929,"New American, Breakfast & Brunch, Desserts","newamerican, breakfast_brunch, desserts",True,False
+NCbmJtryUXXg1mtoZg8aJg,TAK Korean Bistro & Karaoke,4.5,190,$$$,Chicago,60605,41.8681984,-87.62632335372508,"Korean, Karaoke, Cocktail Bars","korean, karaoke, cocktailbars",True,False
+Q55HHOW09QoNI07dUXjn5A,Alpana,4.3,414,$$$,Chicago,60610,41.89767781975498,-87.62807020124552,"New American, Wine Bars","newamerican, wine_bars",False,False
+UKs05XWhbP0riI8O0Kv36w,Boeufhaus,4.2,507,$$$,Chicago,60622,41.899831,-87.687487,"Brasseries, Cocktail Bars, Steakhouses","brasseries, cocktailbars, steak",True,False
+eTDiXThHbw1FYNSGoeGB-Q,Cumin - Lakeview,4.5,53,,Chicago,60657,41.93970291312647,-87.65574289999999,"Indian, Himalayan/Nepalese","indpak, himalayan",True,False
+PtqCsmnOow_ByOkj38eB8w,The Evie,4.5,341,$$$,Chicago,60611,41.892207051940055,-87.62390403884024,"American, Sushi Bars, Steakhouses","tradamerican, sushi, steak",True,False
+bPiaa7fgHkC9l7B2HyS0aw,Cedar Palace,4.8,549,$$,Chicago,60614,41.918054,-87.645757,"Lebanese, Falafel","lebanese, falafel",True,False
+QFg4CAuJRC98_GXVjyrRpA,Chengdu Bistro,4.4,73,,Chicago,60647,41.91020072350959,-87.682875841856,Chinese,chinese,True,False
+Enf_3DXmppx19hFGs0UDKw,La Nonna,4.6,448,$$,Chicago,60618,41.9429574,-87.7203016,"Argentine, Italian","argentine, italian",True,False
+IMZE58oaY-gRlv3qK9BCdw,Tuk Tuk Thai Isan Street Food,4.4,364,$$,Chicago,60657,41.934138,-87.64626,Thai,thai,True,False
+YY4NspX5UZfSRbfpKb-GMA,Sho,4.9,11,,Chicago,60610,41.91014424675168,-87.63441033661366,Japanese,japanese,False,False
+ATbuE6MdSeYLIxcfB8MYCA,Cabra,4.2,950,$$$,Chicago,60607,41.885851,-87.649086,Peruvian,peruvian,True,False
+U9D0vqEP4QrJfJYs8mr3DA,Oiistar,4.2,1223,$$,Chicago,60622,41.90708880046081,-87.67210403709154,"Asian Fusion, Ramen","asianfusion, ramen",False,False
+l_602ggEZES7dW_WeOmKYA,Elia,3.9,194,,Chicago,60622,41.903503,-87.676424,"Turkish, Mediterranean, Halal","turkish, mediterranean, halal",True,False
+vLEoAWdwvi5xgJZNP23YBQ,Roma's Kitchen,5.0,6,,Chicago,60647,41.91818067394259,-87.67744370000001,Indian,indpak,False,False
+bQ1Lc_PEoC2s4kZJcxM43A,Lao Der,4.7,89,,Chicago,60618,41.95222,-87.717395,Laotian,laotian,True,False
+hRoJc3vnia5CXXBTXL5Jtg,Omakase Shoji,4.8,53,,Chicago,60622,41.895835501843294,-87.66894076019526,"Japanese, Bars","japanese, bars",False,False
+kUpqpEqkBjZguS1uA6NQYA,En Hakkore 2.0,4.6,628,$$,Chicago,60622,41.90859268098761,-87.67442096514347,"Asian Fusion, Poke, Sushi Bars","asianfusion, poke, sushi",True,False
+PH2qRMJ2s4oqI1-9wlu2jw,Rose Mary,4.3,924,$$$$,Chicago,60607,41.88698,-87.65119,"Italian, Modern European, Cocktail Bars","italian, modern_european, cocktailbars",True,False
+dKbk0C9z_mRXh24-0vIHqA,Mirra,4.4,167,,Chicago,60622,41.917959764150055,-87.67737831920385,"Mexican, Indian","mexican, indpak",False,False
+ERYEi0job-Kwca1lkOcRhg,NoodleBird,4.3,154,$$,Chicago,60647,41.93194357461772,-87.7023888774715,"Asian Fusion, Noodles","asianfusion, noodles",True,False
+9aUbPj7dgcjdqF_C0OKjPQ,Gavroche,4.4,75,,Chicago,60611,41.91,-87.63424,French,french,False,False
+lgjRFg3M-1N416W41DHsTQ,Ramen Wasabi,4.2,2306,$$,Chicago,60647,41.9195063,-87.6915015,"Ramen, Tapas/Small Plates, Izakaya","ramen, tapasmallplates, izakaya",True,False
+Vw-Qn1Hg06h4yBUdDQCXyA,SUSHI-SAN,4.3,1310,$$$,Chicago,60654,41.8914851,-87.6302732,"Sushi Bars, Japanese, Bars, Sushi Bars, Japanese, Bars","sushi, japanese, bars, sushi, japanese, bars",True,False
+xFBQ1md6PDm7YEpJARoxAA,The VIG Chicago,4.1,961,$$,Chicago,60610,41.9099251,-87.6345035,"American, Cocktail Bars, Breakfast & Brunch","tradamerican, cocktailbars, breakfast_brunch",True,False
+g-FNZCErYf4CuEb8EWYDuQ,Mahanakhon Noodle Bar,4.6,49,,Chicago,60657,41.934736,-87.661455,"Thai, Noodles","thai, noodles",True,False
+5O_UGfc_aZf_Y0Q5audAhg,Mogadishu Restaurant,4.5,166,$,Chicago,60610,41.9000224550849,-87.6368449225973,"African, Somali","african, somali",True,False
+zvLywoR212uaPkXU6Tp8LQ,Dimmi Dimmi Corner Italian,4.5,136,,Chicago,60614,41.918205820988454,-87.65593499304804,"Italian, Bars, Pizza","italian, bars, pizza",False,False
+ZbXgwfVDjb2tz08FGWmSAA,Folklore Argentine Grill,3.9,860,$$,Chicago,60622,41.9034461975098,-87.6799240112305,"Argentine, Steakhouses, Comfort Food","argentine, steak, comfortfood",False,False
+Xt75l3uhbczQeEvLyXVJfA,The Loyalist,4.1,726,$$,Chicago,60607,41.88491,-87.66036,"New American, Cocktail Bars, Venues & Event Spaces, New American, Cocktail Bars, Venues & Event Spaces","newamerican, cocktailbars, venues, newamerican, cocktailbars, venues",False,False
+KML-ctMyeT9OkmEO_zjQmw,Bazaar Meat by José Andrés,4.3,244,$$$$,Chicago,60606,41.8840009,-87.63722299999999,Steakhouses,steak,False,False
+aW7sY8DcTKfBFaXIH5vQxQ,Lucy's,4.0,303,$$,Chicago,60622,41.90055,-87.69642,American,tradamerican,True,False
+ZZEDo3gWa9W6r7Cef9p1tA,Parachute Hi Fi,4.5,48,,Chicago,60618,41.94484782113728,-87.70649638026953,Korean,korean,False,False
+EYjyi_lytYaM1Ty7-kNKSg,Phodega,4.3,426,$$,Chicago,60622,41.90334127310094,-87.6758734,"Vietnamese, Hainan, Noodles","vietnamese, hainan, noodles",True,False
+LnVv3v3uYa7g9MzqzII6tA,Provare,4.3,556,$$$,Chicago,60642,41.89609753853198,-87.66587719325405,"Cajun/Creole, Italian, Cocktail Bars","cajun, italian, cocktailbars",True,False
+xoMP81mJ2ZtS87pZ3SmvQg,Pompette,4.4,96,,Chicago,60647,41.917622217230715,-87.67786379903555,"Wine Bars, Cafes","wine_bars, cafes",False,False
+pOSibnhCQsssfbqD0QR39Q,Topoli,4.7,11,,Chicago,60640,41.979548,-87.654841,Mediterranean,mediterranean,False,False
+p2cCK4Vu-3L-skOMd93VVg,JJ Thai Street Food,4.4,574,$$,Chicago,60622,41.8958251,-87.6703764,Thai,thai,True,False
+bmTC5TdAQh0s2y24nTS4bA,Kayao,4.4,153,,Chicago,60610,41.90541208020734,-87.63487429999999,"Peruvian, Beer Bar, Cocktail Bars","peruvian, beerbar, cocktailbars",False,False
+_MnIiS_b3enHyx8Y62gd4Q,Oriole,4.7,447,$$$$,Chicago,60661,41.8860966,-87.6449481,New American,newamerican,True,False
+r9zeenSk7DLkv3MwHbfkng,Menya Goku By Ramen Wasabi,4.7,145,$$,Chicago,60618,41.9612451,-87.6841485,Ramen,ramen,True,False
+tzP7xNT7OokI6JKgtINTlA,Antico,4.4,302,$$$,Chicago,60647,41.91746,-87.68281,Italian,italian,False,False
+TODU-IzDLN3EdiHhQUQHvg,The Soul Food Lounge,4.6,460,$$$,Chicago,60623,41.85907,-87.72052,"Soul Food, Comfort Food","soulfood, comfortfood",True,False
+TwKrphQ1NDIimW35oB2bVQ,Fatback Butcher,4.0,13,,Chicago,60601,41.8870799332084,-87.63334985822439,"Specialty Food, Butcher, Sandwiches","gourmet, butcher, sandwiches",True,False
+zF9o33BVqLUOcCmnuB2eQw,Handlebar,4.1,1804,$$,Chicago,60647,41.9100899,-87.6853,"Vegetarian, Bars, Vegan","vegetarian, bars, vegan",True,False
+0Zu5S3zJvLC1Ve7kGAttDQ,Bárbaro Taquería,4.5,228,$$,Chicago,60647,41.90997,-87.69074,"Mexican, Cocktail Bars","mexican, cocktailbars",True,False
+PdbRfCs6fHZacu6L_5oHnA,Bistro Monadnock,4.5,176,,Chicago,60604,41.877754,-87.629628,"French, Cocktail Bars","french, cocktailbars",False,False
+zH7lgLLw0FVfA6HrwV4pTw,S.K.Y.,4.5,810,$$$,Chicago,60614,41.924134573867455,-87.6367046,"New American, Cocktail Bars, Wine Bars","newamerican, cocktailbars, wine_bars",True,False
+SNMDHCuAwZQX-Chtq7Q5lA,Nettare,4.3,75,,Chicago,60622,41.89575065216653,-87.67662461847067,"Cocktail Bars, New American, Cafes","cocktailbars, newamerican, cafes",False,False
+hCteP5ItNMuYAZGVMbsgSQ,Un Amor,4.7,171,,Chicago,60642,41.896252765322295,-87.6644128,"Breakfast & Brunch, Cocktail Bars, Tacos","breakfast_brunch, cocktailbars, tacos",True,False
+dNahrgb_2WkgA4ZhONEHuA,Botanero,4.4,32,,Chicago,60622,41.907463476993115,-87.6672637090087,"Mexican, Lounges, Cocktail Bars","mexican, lounges, cocktailbars",True,False
+0o6uzcN94OmvR1J1PROWMQ,PIZZ'AMICI,4.1,131,,Chicago,60642,41.890834,-87.658052,Pizza,pizza,False,False
+xJEA6P6VS-Ukl9dmjleDkw,Silli Kori | Thai,4.4,382,$$,Chicago,60622,41.90286,-87.67935,"Thai, Asian Fusion","thai, asianfusion",True,False
+mxHa-WPXhHzi27P7uL8qkg,The Ivy Bar and Kitchen,4.1,10,,Chicago,60613,41.95409353550759,-87.6700182,"Tapas/Small Plates, Sports Bars, Cocktail Bars","tapasmallplates, sportsbars, cocktailbars",False,False
+2Oi105ekJSsbFde25kuSXQ,Shang Noodle - Chicago,4.3,513,$$,Chicago,60611,41.89153,-87.62204,"Chinese, Noodles","chinese, noodles",True,False
+4OR1oPfy-bgyWFROIRRUWA,Muhajir,4.8,13,,Chicago,60614,41.9303755,-87.64401900000001,"Indian, Filipino","indpak, filipino",False,False
+Bp1ZiZ8eNpBCC074oGk4ag,Szechuan Corner,4.3,97,,Chicago,60657,41.934406,-87.669184,Szechuan,szechuan,True,False
+56HWQzYO2hLhREjlmq6tGg,Tryzub Ukrainian Kitchen,4.4,382,$$,Chicago,60622,41.8958059,-87.6819438,"Ukrainian, Breakfast & Brunch, Venues & Event Spaces","ukrainian, breakfast_brunch, venues",True,False
+CBF6sSJBD2iOmkbNZAerZQ,This Little Goat,4.0,6,,Chicago,60612,41.88070417685551,-87.67417994864469,Tacos,tacos,False,False
+hSyccdYINhewDUEu9jafZQ,Bar Parisette,4.5,34,,Chicago,60647,41.917299,-87.698438,"Wine Bars, French, New American","wine_bars, french, newamerican",False,False
+sJOPkTGLi53eB46ykvDeRg,Farm Bar - Lakeview,4.2,588,$$,Chicago,60657,41.93643,-87.66141,"Bars, New American, Beer, Wine & Spirits","bars, newamerican, beer_and_wine",True,False
+UZGmCmx5UJP3NZ5_BF_UhQ,Chuy’s Tacos,4.8,10,,Chicago,60630,41.97070593926136,-87.7447401,Mexican,mexican,False,False
+gAp38M1cLRkFHbemMhaNAQ,Le Bouchon,4.0,828,$$$,Chicago,60647,41.91756,-87.67792,French,french,False,False
+a2ogrDeg0HwwzlLIj3x-Qg,Boonie's Filipino Restaurant,4.5,231,,Chicago,60618,41.96063,-87.68828,Filipino,filipino,True,False
+lYKn_TKwzudoIYplL2tGDg,Chicago French Market,3.9,659,$$,Chicago,60661,41.884136,-87.640976,"Food Court, Specialty Food, Venues & Event Spaces","food_court, gourmet, venues",False,False
+h3zEUwyZ9xX63ljpJzsQ5Q,Dēliz,4.4,93,,Chicago,60622,41.910701639679814,-87.67424031789,"Italian, Steakhouses, Cocktail Bars","italian, steak, cocktailbars",False,False
+mOFO7fl4Fmw4IIoHNSGxjw,Cleo's,4.6,19,,Chicago,60657,41.933096147016016,-87.65971396118402,Southern,southern,True,False
+wjKVqZA4xhk2VQmPvY8QOw,Smash Jibarito,4.3,37,,Chicago,60622,41.90314374863983,-87.69087952573605,"Burgers, Puerto Rican","burgers, puertorican",True,False
+VH6O_2qSPkTme_s-1Y1nXQ,Trike Noodle,4.5,190,$$,Chicago,60647,41.9238472891421,-87.69854620758457,"Thai, Asian Fusion","thai, asianfusion",True,False
+nvVCxKOqBNtTjqbhh2H5Cg,Paradise Park,4.1,692,$$,Chicago,60622,41.91025,-87.67566,"Pizza, Bars, Breakfast & Brunch","pizza, bars, breakfast_brunch",True,False
+2XauFxxBwl5YAhJHJLpd7g,Krasa,4.4,179,$$,Chicago,60622,41.9028,-87.66721447116393,"Burgers, Bars, Mediterranean","burgers, bars, mediterranean",True,False
+zFbAbx4GJfu1GByUG6rDOw,La Grande Boucherie,4.3,640,$$$$,Chicago,60654,41.89029,-87.62935,"Steakhouses, French, Cocktail Bars","steak, french, cocktailbars",True,False
+LqTqsPaK1RO4CedIFXFJ2g,Yaya Mas Greek Kuzina,4.1,192,$$,Chicago,60614,41.91364611445397,-87.65307046473026,"Greek, Pizza, Breakfast & Brunch","greek, pizza, breakfast_brunch",True,False
+32t_t04aDAMRkhNksU0xsg,Charlie Martin's,4.7,70,,Chicago,60654,41.895974,-87.631573,Supper Clubs,supperclubs,True,False
+L0SpO9Eb6fHIZ5ljKpdAow,Queen Mary Tavern,4.4,162,$$,Chicago,60622,41.9028282165527,-87.6807403564453,"Cocktail Bars, Wine Bars, Seafood","cocktailbars, wine_bars, seafood",True,False
+1hZJWzpYgUpOMkmGZAewsg,Topo Gigio Ristorante,4.1,1336,$$,Chicago,60610,41.9096594975818,-87.6348415912861,Italian,italian,True,False
+SXRUKDBRsBoVKmtp8aU6qw,Zarella Pizzeria & Taverna,4.5,277,,Chicago,60654,41.89176,-87.63384,"Italian, Pizza","italian, pizza",False,False
+3vdqfM3NqeM_g_q1qZlScw,Adalina Italian,4.1,481,$$$,Chicago,60610,41.8994,-87.62835,Italian,italian,True,False
+bOlOwlWUvouywvhtGyiiAw,Ezankaya Bann Suan,5.0,8,,Chicago,60614,41.926996,-87.648583,"Thai, Izakaya, Asian Fusion","thai, izakaya, asianfusion",True,False
+GvU2TIDK0deL_xbPfIkezA,Chicago Diplomat Cafe,4.3,224,$$,Chicago,60657,41.9385,-87.66752,"Modern European, Cafes, Georgian","modern_european, cafes, georgian",True,False
+2xsqMP0sQbRBXjp9O8ahRQ,"AMBAR Restaurant, Chicago",4.3,185,$$$,Chicago,60654,41.89497473200752,-87.63158,"Desserts, Seafood, Desserts, Seafood","desserts, seafood, desserts, seafood",True,False
+ScH70JdzPpPyVhQtdb1sCQ,Suda’s Lebanese Cuisine,4.9,140,,Chicago,60614,41.92536874706707,-87.6667917,"Seafood, Mediterranean, Beer, Wine & Spirits","seafood, mediterranean, beer_and_wine",True,False
+VcuTGkMtZSJugVsdKx7OOQ,Chubby Skewers | Chicago,4.3,79,,Chicago,60616,41.854755,-87.632587,"Barbeque, Chinese, Seafood","bbq, chinese, seafood",True,False
+efjE9fu4FvY-mPyC8k6qhQ,Foundation Room Chicago,3.9,48,$$,Chicago,60654,41.888367,-87.629247,"New American, Lounges, Cocktail Bars","newamerican, lounges, cocktailbars",False,False
+O5AWfmBUuOwhoGvslbNN5A,LÝRA,4.1,621,,Chicago,60607,41.8865229242723,-87.65015533563846,"Greek, Mediterranean, Cocktail Bars","greek, mediterranean, cocktailbars",True,False
+KXELHXV13jaNl1u_PApXlg,Oda Mediterranean Cuisine,4.4,216,$$,Chicago,60660,41.9850256680756,-87.6689633333333,"Mediterranean, Turkish, Georgian","mediterranean, turkish, georgian",True,False
+sWYRaPCYHrTxsZPLWmzkzQ,Scofflaw,4.3,882,$$$,Chicago,60647,41.9173240661621,-87.7071762084961,"New American, Cocktail Bars","newamerican, cocktailbars",True,False
+YbLA3uRpvBzIf4oJ352ZVQ,Ada Street,4.3,623,$$$,Chicago,60642,41.9124416,-87.6620728,"Bars, American","bars, tradamerican",True,False
+0o0OGLHAWMfDXNuu4gQ58w,Avaspi,4.8,113,,Chicago,60657,41.93998824212478,-87.66121234241837,"Salad, Cocktail Bars, Mediterranean","salad, cocktailbars, mediterranean",False,False
+eWEfgeuMkGjC-yeV7dXArw,Monarch & Lion,4.1,278,$$,Chicago,60611,41.891153,-87.61997400000001,"British, Fish & Chips, Indian","british, fishnchips, indpak",True,False
+i7Zm01nbGsta7GVVPY-Aqw,La Bodega,5.0,15,,Chicago,60605,41.86857605,-87.62597656,"Caterers, Food Delivery Services, Tapas/Small Plates","catering, fooddeliveryservices, tapasmallplates",False,False
+V3_UIvTZGIOMFM93LZF9TA,Laschet's Inn,4.4,620,$$,Chicago,60618,41.95381,-87.68198,"German, Pubs, Beer Bar","german, pubs, beerbar",True,False
+3dXYHvsHPPuF4g98q9R4Aw,Port & Park,4.5,235,$$,Chicago,60613,41.954529,-87.664439,"New American, Cocktail Bars, American","newamerican, cocktailbars, tradamerican",True,False
+VIV1fLOzjtzBeQwJBPIN2w,Lone Owl Pub,4.1,65,,Chicago,60622,41.90976697949441,-87.67605189999999,"Cocktail Bars, Lounges, Burgers","cocktailbars, lounges, burgers",False,False
+bQDXNksi5lQ4YRv0kGSzjQ,The Welcome Back Lounge,4.5,139,$$,Chicago,60647,41.92549,-87.701022,"American, Breakfast & Brunch, Cocktail Bars","tradamerican, breakfast_brunch, cocktailbars",True,False
+q7SQnw2xVHjWuyQXL3VHUg,KAI ZAN,4.6,1358,$$$,Chicago,60622,41.8955051374998,-87.6915407180786,"Asian Fusion, Japanese, Sushi Bars","asianfusion, japanese, sushi",True,False
+5N4g9tt8RCuZf0Hte94Oxw,Staropolska Restaurant,4.6,671,$$,Chicago,60618,41.936365,-87.719246,"Polish, Desserts, Soup","polish, desserts, soup",True,False
+zm6Peew9j8YtowzUu4sQfA,The Whale Chicago,4.2,1095,$$,Chicago,60647,41.92555,-87.70112,"New American, Breakfast & Brunch, Cocktail Bars","newamerican, breakfast_brunch, cocktailbars",True,False
+fDpryalBDQhHoll8UKRaXw,Way Out,4.5,46,,Chicago,60617,41.91716335791234,-87.70767779475786,"Chicken Wings, Cocktail Bars","chicken_wings, cocktailbars",True,False
+DwJwTn1MMhkUk6umLeM5MQ,Daebak,3.9,114,$$,Chicago,60622,41.90466,-87.66894,"Korean, Barbeque","korean, bbq",True,False
+Drkh8SbqF5w1VLAeBAqJcA,Kennedy Rooftop,4.1,250,$$,Chicago,60622,41.9103888,-87.6672851666808,"Cocktail Bars, New American","cocktailbars, newamerican",True,False
+kIQRxmU4zQ8uUn4qbMjlpg,Bungalow by Middle Brow,4.0,438,$$,Chicago,60647,41.91778,-87.69881,"Beer Bar, Pizza, Bakeries","beerbar, pizza, bakeries",True,False
+V5G4X7nBTHOYFvsp8p7s2Q,Torgo,4.8,4,,Harwood Heights,60706,41.96757,-87.81065,"Mongolian, Noodles","mongolian, noodles",True,False
+1509qULBYqJI4wcsdGbpzg,Flour Power,4.5,92,,Chicago,60622,41.896176331648654,-87.668933,"Italian, Italian","italian, italian",False,False
+5VlN0m83Yd1y4hdQmPKJkg,Mi Tocaya Antojeria,4.0,534,$$,Chicago,60647,41.9289,-87.6977,"Mexican, Latin American","mexican, latin",True,False
+jKKFQGqgYBTQVx9P0hdb9w,The Radicle,4.4,18,,Chicago,60647,41.927302342288556,-87.70415615290403,"Italian, Seafood, Cocktail Bars","italian, seafood, cocktailbars",False,False
+wB6qg4tsqZAm7407SZmtsw,Class Act,4.5,15,,Chicago,60647,41.91343694309221,-87.67724079999999,"New American, Cocktail Bars","newamerican, cocktailbars",False,False
+OLLCYpaF_cWzrZ-Hd7FYMQ,Lardon,4.3,164,$$,Chicago,60647,41.921891836367266,-87.69749321372282,"Cafes, Sandwiches, Wine Bars","cafes, sandwiches, wine_bars",False,False
+-HqkUZg3tu-ZAV1RhdzXHQ,Tacotlan,4.3,451,$$,Chicago,60639,41.92469,-87.73466,"Mexican, Venues & Event Spaces","mexican, venues",True,False
+AqYFeg1GBwHe4ERL3q_LYg,Ella Elli,4.5,509,$$$,Chicago,60657,41.9451151,-87.6630233,"Wine Bars, Mediterranean, New American","wine_bars, mediterranean, newamerican",True,False
+YVIZL2GkkCa5X82N2vnvFg,Bumper 2 Burger,5.0,3,,Chicago,60647,41.9234239,-87.6978754,"Burgers, Hot Dogs, Sandwiches","burgers, hotdog, sandwiches",True,False
+xmwkn5WSkKWp0pw8yLE2Og,The Wolfhound Bar and Kitchen,4.6,78,,Chicago,60618,41.939085851484315,-87.6982328,"Bars, Pizza, Irish","bars, pizza, irish",False,False
+olWKKjgEfAwx-n_P0xHMuQ,Anelya,4.2,79,,Chicago,60618,41.94420561608926,-87.70565751940012,"Ukrainian, Bars, Comfort Food","ukrainian, bars, comfortfood",False,False
+URjuAY-Nv-133vzQMe77tg,Birdman Ramen,4.4,156,$$,Chicago,60654,41.892786,-87.622044,Ramen,ramen,True,False
+OSyGZMwCI9w_0BbQtH-kCw,Duck Duck Goat,4.1,2207,$$$,Chicago,60607,41.886635785447695,-87.64971571113162,Chinese,chinese,True,False
+9Pc_hOo-3Flbfag0Rwt70w,Al's Beef,4.3,492,$$,Chicago,60654,41.89225,-87.63436,"Sandwiches, Hot Dogs, Burgers","sandwiches, hotdog, burgers",True,False
+IvPHql5UloizrbYL1zrEXg,KALA Modern Greek,4.7,336,$$,Chicago,60614,41.92863852610618,-87.6420659628887,"Greek, Salad, Sandwiches","greek, salad, sandwiches",True,False
+9WqiX6CdZxg1ju8EjReVkQ,Happy Lamb Hot Pot,4.3,1398,$$$,Chicago,60616,41.85062895992601,-87.6321784,"Mongolian, Hot Pot, Chinese","mongolian, hotpot, chinese",True,False
+F7IQngaDDBgYvhA3U31q-g,Irazú Costa Rican Restaurant & Catering,4.3,2552,$$,Chicago,60647,41.9151045993531,-87.6846393244315,"Latin American, Venues & Event Spaces, Empanadas","latin, venues, empanadas",True,False
+XgGUnYs2bjbbNvBefFtWxA,The Pasta Bowl,4.2,1210,$$,Chicago,60614,41.92638,-87.641448,Italian,italian,True,False
+uGrvtr88xUMU7RrKfXvCGg,jeong,4.6,230,$$$$,Chicago,60642,41.89637,-87.66477,"Korean, New American","korean, newamerican",False,False
+TnMmN2kywXeNr3yZyUeaJA,Yoo Yee,4.4,156,$$,Chicago,60640,41.972327989643354,-87.65911673061821,"Chinese, Desserts, Noodles","chinese, desserts, noodles",True,False
+Bj_4lpjmkFHwOAzRbIoabg,The Jibarito Stop,4.3,501,$$,Chicago,60601,41.885244,-87.626481,Puerto Rican,puertorican,True,False
+Cht9l3JfdYk1ycWuSofjrg,All Well,4.3,19,,Chicago,60607,41.883440283376515,-87.65312311722113,"New American, Cocktail Bars","newamerican, cocktailbars",False,False
+p-a5uSlaIENNTmoYqOvTYA,DeNuccis,4.3,280,$$$,Lincoln Park,60614,41.91993037383063,-87.6414504647255,"New American, Italian","newamerican, italian",False,False
+vofANrgotem6XRBBf5sc7A,Jake Melnick's Corner Tap,3.8,1721,$$,Chicago,60611,41.89555497057399,-87.62651245888121,"Sports Bars, Barbeque, Chicken Wings","sportsbars, bbq, chicken_wings",True,False
+Ryv0LRKMXUAGVnpbxp_D8A,Fora,3.9,120,$$,Chicago,60607,41.88742,-87.65185,"New American, Cocktail Bars, Breakfast & Brunch","newamerican, cocktailbars, breakfast_brunch",False,False
+OOE9Bhk18RPZIL3O1OqH8g,Qiao Lin Hotpot - Chicago Downtown,4.7,266,$$$,Chicago,60611,41.891236,-87.622091,"Hot Pot, Chinese","hotpot, chinese",False,False
+qXpvnq1EJ27iuoghG5A4-g,The Gundis Kurdish Kitchen,4.7,690,$$,Chicago,60657,41.9350992,-87.646744,"Mediterranean, Middle Eastern","mediterranean, mideastern",True,False
+hP2L8k60R9er1VnzLHSlEA,Bayan Ko Diner,4.3,144,,Chicago,60613,41.9616342616918,-87.67544956204071,"Cuban, Filipino","cuban, filipino",False,False
+90-6FQYDxKp516WnO_jMpg,Galit,4.1,553,$$$$,Chicago,60614,41.9261880718568,-87.6496120914817,"Mediterranean, Middle Eastern, Vegetarian","mediterranean, mideastern, vegetarian",True,False
+VovGbims0q0fkibb_7MKLg,The Smith,4.2,830,$$,Chicago,60654,41.88935,-87.6314,New American,newamerican,True,False
+hBb2RcUVumohfY2kbGKvKQ,HIDE+SEEK,4.0,393,,Chicago,60607,41.88466,-87.64899,"New American, Venues & Event Spaces, Cocktail Bars","newamerican, venues, cocktailbars",False,False
+B3s6h5OFne0C5ygKSevJpA,Rudy’s Ramen,4.6,212,$$,Chicago,60642,41.90252543864915,-87.66536544877775,Ramen,ramen,True,False
+ptRZlXxngjFj5gghwPNNHA,RJ Grunts,3.8,1316,$$,Chicago,60614,41.920024442085,-87.636636114155,"American, Wraps, Chicken Wings","tradamerican, wraps, chicken_wings",True,False
+8I7ndLG_llsEV0sBB5VSjg,Ithaki Estiatorio,4.2,65,,Chicago,60661,41.8776360043334,-87.64738747116398,Greek,greek,True,False
+R7d-mz-fVtheQJvZE7sXhA,Little Goat Diner,3.7,337,$$,Chicago,60657,41.942313,-87.663544,"Diners, Breakfast & Brunch, New American","diners, breakfast_brunch, newamerican",False,False
+4oATsYP0OF0ciHz-_-c_Lw,1492 Cuban Fusion,4.4,336,$$,Chicago,60647,41.910048,-87.692787,Cuban,cuban,True,False
+Ld11LQCqA5c6Ic7ezUDlSA,Asador Bastian,4.0,184,$$$$,Chicago,60654,41.89410401536601,-87.63488701719666,"Spanish, Bars, Steakhouses","spanish, bars, steak",False,False
+qUhMEd8oDAwGqBEF9mNKFQ,Andros Taverna,4.2,454,,Chicago,60647,41.92733834914246,-87.7049751842139,"Greek, Mediterranean, Seafood","greek, mediterranean, seafood",True,False
+QYqcNmX-jKY1xPrtV85L3Q,Aztec Dave's Cantina,4.3,116,,Chicago,60622,41.90238,-87.69656,"Cocktail Bars, Mexican, Breakfast & Brunch","cocktailbars, mexican, breakfast_brunch",True,False
+KXiClWndL6UyPJDt7y50zQ,La Scarola,4.2,1724,$$,Chicago,60610,41.8910731156813,-87.646832,"Italian, Bars","italian, bars",True,False
+QRNOVs9tD0z0JCVPuHqWtA,Ryota,4.3,73,$$,Chicago,60607,41.88148888423427,-87.65557439999999,"Sushi Bars, Ramen, Sushi Bars, Ramen","sushi, ramen, sushi, ramen",True,False
+-dMp52MgCxzdMfCzjZMqxg,Rocky's Table and Tap,4.3,4,,Chicago,60612,41.8774,-87.67295,"Bars, American","bars, tradamerican",False,False
+mTOxKyJfY7OgeS9jUa88ew,Osteria del Pastaio,3.8,547,$$,Chicago,60611,41.89787,-87.6252,"Italian, Wine Bars, Sandwiches","italian, wine_bars, sandwiches",True,False
+nfhrIj8dNwcrxtu9avd13Q,John’s Food and Wine,4.1,90,,Chicago,60614,41.92045328414752,-87.64892175793648,"New American, Beer, Wine & Spirits, Desserts","newamerican, beer_and_wine, desserts",False,False
+62SgM_QucAnf3KYDFJz9qQ,NADU,4.2,115,,Chicago,60614,41.92751439776936,-87.65193624110454,Indian,indpak,False,False
+Nza-kbPzUfFMZGyJz12sYg,The StopAlong,4.4,383,$$,Chicago,60647,41.91426,-87.68393,"Pizza, Burgers, Bars","pizza, burgers, bars",True,False
+RknsNPtkyrnOZDb3fwCRow,Trino,4.7,50,,Chicago,60661,41.88484755482354,-87.64722123742104,Steakhouses,steak,False,False
+T1byj0cyKsnzgPFDPh3NXA,Osteria Langhe,4.3,466,$$,Chicago,60647,41.917687,-87.698252,Italian,italian,True,False
+lI0LpCVdcBOF6SGH93KIgA,Taverna 1821,4.4,21,,Chicago,60607,41.88687918497502,-87.6519075,Greek,greek,False,False
+m5_GCJP2W4zEJnyVgxa3eA,Longman & Eagle,4.1,2648,$$,Chicago,60647,41.930156679293,-87.707222394898,"Gastropubs, Whiskey Bars, American","gastropubs, whiskeybars, tradamerican",True,False
+at9kUR0H_UzkjEChNHTGmw,Medi Kitchen & Cocktail,4.3,185,,Chicago,60614,41.92117839114374,-87.6489538,"Mediterranean, Cocktail Bars","mediterranean, cocktailbars",True,False
+nlepYqssoZOBJlK6SljVpQ,Seoul Spice,4.7,28,,Chicago,60654,41.89307462132694,-87.62794509999999,"Korean, Fast Food, Gluten-Free","korean, hotdogs, gluten_free",True,False
+niJ9e7qd8TNYSrUMcn7UEg,Pilot Project Brewing - Wrigleyville,4.4,35,,Chicago,60657,41.9454924,-87.65476111047458,"Breweries, Cocktail Bars, Breakfast & Brunch","breweries, cocktailbars, breakfast_brunch",False,False
