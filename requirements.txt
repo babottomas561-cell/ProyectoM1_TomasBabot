@@ -1,0 +1,9 @@
+# Librerías para correr los notebooks (probado con Python 3.11 y estas versiones mínimas)
+pandas>=2.2,<3
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+requests>=2.31
+python-dotenv>=1.0
+jupyter
